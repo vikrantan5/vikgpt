@@ -85,7 +85,7 @@ html::-webkit-scrollbar-thumb{
 
 .chat-container{
     width: 100%;
-    max-height: calc(100vh - 80px);
+    max-height: calc(100vh - 120px);
     overflow-y: auto;
     display: flex;
     flex-direction: column;
